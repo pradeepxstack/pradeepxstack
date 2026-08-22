@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-- I’m currently working on full-stack projects using JavaScript (React.js, Next.js, Node.js, Express, MongoDB)  
-- I’m currently learning advanced React, Next.js, and system design concepts  
-- I’m looking to collaborate on open-source JavaScript projects and SaaS product development  
-- I’m looking for help with scaling applications and improving DevOps practices (Docker, CI/CD)  
-- Ask me about JavaScript, React.js, Node.js, Express, MongoDB, REST APIs, and MERN stack development  
-- How to reach me: [LinkedIn](https://linkedin.com/in/pradeepxstack) | [Email](mailto:pradeepxstack@gmail.com)  
-- Pronouns: He/Him  
-- Fun fact: I love solving real-world problems through code and can spend hours debugging without losing patience 🚀  
+- 🎯 I’m currently focused on becoming a **Full-Stack AI Engineer**
+- 🤖 I’m building AI-powered products using **Python, FastAPI, LLMs, RAG, and AI Agents**
+- 🧠 I’m currently learning **Machine Learning, Deep Learning, Generative AI, and LLM application development**
+- ⚡ I’m also exploring **Next.js, React, PostgreSQL, Docker, and modern backend architecture**
+- 🚀 I’m interested in building and shipping **real-world AI products and SaaS applications**
+- 🔍 I’m looking to collaborate on **AI, GenAI, open-source, and full-stack projects**
+- 💡 Ask me about **Python, AI/ML, Generative AI, LLMs, RAG, AI Agents, FastAPI, and full-stack development**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/pradeepxstack) | [Email](mailto:pradeepxstack@gmail.com)
+- 👨‍💻 Pronouns: He/Him
+- ⚙️ Fun fact: I enjoy turning ideas into working products and learning by building. 🚀
