@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🎯 I’m currently focused on becoming a **Full-Stack AI Engineer**
+- 🎯 I’m currently focused on becoming a **AI Engineer**
 - 🤖 I’m building AI-powered products using **Python, FastAPI, LLMs, RAG, and AI Agents**
 - 🧠 I’m currently learning **Machine Learning, Deep Learning, Generative AI, and LLM application development**
 - ⚡ I’m also exploring **Next.js, React, PostgreSQL, Docker, and modern backend architecture**
